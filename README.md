@@ -1,6 +1,8 @@
 # Computer Programming Ⅱ Team Project – Pumpkin 🎃
 
+```
 LET’S FLIP THE IMAGE UPSIDE DOWN
+```
 C++과 libpng 라이브러리를 사용하여 PNG 이미지를 수직 방향으로 뒤집는 프로그램입니다.
 
 ## 목차
